@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,gBACE,YAAa,CACb,sBAAuB","file":"main.9826c092.chunk.css","sourcesContent":[".clock__buttons {\n  display: flex;\n  justify-content: center;\n}\n"]}
